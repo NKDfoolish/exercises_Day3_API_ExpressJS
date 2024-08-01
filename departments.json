@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Sale department",
+    "Description": "Sale for saler use to work at company",
+    "DirectorId": "SL001"
+  },
+  {
+    "Name": "Sale2 department",
+    "Description": "Sale for saler use to work at company",
+    "DirectorId": "SL002"
+  }
+]

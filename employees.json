@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Nguyen Khanh Duy",
+    "Age": 21,
+    "DepartmentId": "SL001",
+    "Phone": "0123456789",
+    "Email": "abc@gmail.com",
+    "Salary": 2000
+  },
+  {
+    "Name": "Nguyen Khanh Huy",
+    "Age": 22,
+    "DepartmentId": "SL001",
+    "Phone": "0123456788",
+    "Email": "cba@gmail.com",
+    "Salary": 4000
+  },
+  {
+    "Name": "Nguyen Khanh Huy",
+    "Age": 22,
+    "DepartmentId": "SL002",
+    "Phone": "01234567888",
+    "Email": "cbaa@gmail.com",
+    "Salary": 5000
+  }
+]
